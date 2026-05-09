@@ -1,5 +1,6 @@
 Hi 👋, I'm muhsin-ali
-A passionate frontend developer & editor % designer
+A passionate frontend developer & editor & designer
+
 🔭 I’m currently working on project
 
 🌱 I’m currently learning django
